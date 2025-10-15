@@ -141,3 +141,13 @@
 99. `snap install` – install snap package
 100. `pip install` – install Python package
 
+# some extra commands 
+
+101. `nproc` - to display the number of processing units (CPU cores) available to the current process.
+102. `vim [filename]file.txt` - Opens file.txt for editing.If the file doesn’t exist, Vim will create it.
+103. `#! bin/bash` - Shebang (Tells the system which interpreter to use to execute the script.)
+104. `echo [options] [string]` - used to display text or variables on the terminal
+105. `command1 | command2` -command1 produces output. -> command2 takes that output as input.
+106. `command1 | command2 | command3` -You can chain multiple pipes
+107. `grep "hello" file.txt` -Prints all lines in file.txt that contain hello. searches for patterns or strings in files or input and prints the matching lines.
+
